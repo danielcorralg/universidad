@@ -1,5 +1,6 @@
 #Conjetura de Collatz.
 #Realizado por: Daniel Corral García (daniel.corral.garcia@gmail.com)
+#Realizado en Python 3.5.2
 
 numero = int(input("Introduce un número: "))
 print(numero)
